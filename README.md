@@ -1,3 +1,4 @@
 # hello-world
 GitHub tutorial
-This is my fisrt repo
+
+This is my first repo
